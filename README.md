@@ -50,11 +50,11 @@
 
 The following is the companion GitHub repo for our research paper "Hands-On Learning with Physics-Informed Neural Networks: A New Paradigm for Differential Equations". This is provided as-is for math faculty, educators, and students alike to use in teaching PINNs, deep learning, and differential equations in their classroom settings. This repo is not intended to be "production-ready" or a "complete, self-guided tour", but rather, is a **supplemental resource in understanding our paper**.
 
-For this paper, the code-base was elected to be on Google Colab. This repo is exists merely as a redirect path.
-
 <!-- ABOUT THE PROJECT -->
 <a name="started"></a>
 # Getting Started
+
+For this paper, the code-base was elected to be on Google Colab. This repo is exists merely as a redirect path.
 
 <a name="started-setup"></a>
 ## Setup
