@@ -59,7 +59,7 @@ For this paper, the code-base was elected to be on Google Colab. This repo is ex
 <a name="started-setup"></a>
 ## Setup
 
-Visit the <a href="https://colab.research.google.com/drive/1H9-N1GBYdBqTjg9msqR1b5ahXuhRl4P6?authuser=2">Google Colab code base</a> and copy it to your own Google Drive. Adjust the folder variables within the code base if you prefer a different save location; otherwise, the code is ready to be run "as-is".
+Visit the <a href="https://drive.google.com/drive/folders/1gkUCSIgFkiShdqN9Ebr-ysLfgewSadk5">Google Colab code base</a> and copy it to your own Google Drive. Adjust the folder variables within the code base if you prefer a different save location; otherwise, the code is ready to be run "as-is".
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,8 +88,6 @@ Full acknowledgements and citations are provided in the linked paper.
 <a name="contact"></a>
 # Contact
 
-To directly message me or setup a time to chat virtually, see my [LinkedIn](https://www.linkedin.com/in/cdenq/) and [Calendly](https://calendly.com/christopherkd/coffee-chats) links.
-
-If you're curious about more projects, check out my [website](https://cdenq.github.io/) or [GitHub](https://github.com/cdenq).
+To directly message me or setup a time to chat virtually, see my [contact page](https://github.com/cdenq#contact).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
